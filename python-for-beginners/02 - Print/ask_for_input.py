@@ -3,3 +3,7 @@
 name = input('What is your name? ')
 
 print(name)
+
+place = input('where do you live? ')
+
+print(place)
